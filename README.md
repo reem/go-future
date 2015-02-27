@@ -1,4 +1,4 @@
-# Future
+# Future [![Build Status](https://travis-ci.org/reem/go-future.svg?branch=master)](https://travis-ci.org/reem/go-future)
 
 > A condition-variable based Future type for synchronization in Go.
 
@@ -35,7 +35,7 @@ func main() {
 
 ## Author
 
-[Jonathan Reem](https://medium.com/@jreem) is the primary author and maintainer of pico.
+[Jonathan Reem](https://medium.com/@jreem) is the primary author and maintainer of future.
 
 ## License
 
