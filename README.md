@@ -14,7 +14,7 @@ import future "github.com/reem/go-future"
 import "fmt"
 
 type Data struct {
-    int x
+    x int
 }
 
 func main() {
